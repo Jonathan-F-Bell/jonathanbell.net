@@ -1,0 +1,23 @@
+{
+  "name": "jonathanbell.net",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jonathan-F-Bell/jonathanbell.net.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jonathan-F-Bell/jonathanbell.net/issues"
+  },
+  "homepage": "jonathanbell.net",
+  "dependencies": {
+    "@11ty/eleventy": "^3.0.0"
+  }
+}
